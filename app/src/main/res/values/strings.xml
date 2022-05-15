@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BrainTraining</string>
+    <string name="save">save</string>
+    <string name="get">get value</string>
+    <string name="clear">Clear value</string>
+</resources>
